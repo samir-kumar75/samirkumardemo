@@ -1,2 +1,3 @@
 # samirkumardemo
-This is the first Git Repository
+This is the first Git Repository.
+Author- samir sharma 
